@@ -51,14 +51,14 @@ in order to persist cart and login status, and having access to different univer
 
 ### Contributors
 <a href="https://github.com/jaynopponep">
-  <img src="https://github.com/jaynopponep.png?size=100" style="border-radius: 50%; width: 100px; height: 100px;" alt="Jay Noppone P" />
+  <img src="https://github.com/jaynopponep.png?size=100" width="100" height="100" style="border-radius: 50%;" alt="Jay Noppone P" />
 </a>
 <a href="https://github.com/willofcode">
-  <img src="https://github.com/willofcode.png?size=100" style="border-radius: 50%; width: 100px; height: 100px;" alt="William Ng" />
+  <img src="https://github.com/willofcode.png?size=100" width="100" height="100" style="border-radius: 50%;" alt="William Ng" />
 </a>
 <a href="https://github.com/MattMunoz">
-  <img src="https://github.com/MattMunoz.png?size=100" style="border-radius: 50%; width: 100px; height: 100px;" alt="Matthew Munoz" />
+  <img src="https://github.com/MattMunoz.png?size=100" width="100" height="100" style="border-radius: 50%;" alt="Matthew Munoz" />
 </a>
 <a href="https://github.com/BaljinderHothi">
-  <img src="https://github.com/BaljinderHothi.png?size=100" style="border-radius: 50%; width: 100px; height: 100px;" alt="Baljinder Hothi" />
+  <img src="https://github.com/BaljinderHothi.png?size=100" width="100" height="100" style="border-radius: 50%;" alt="Baljinder Hothi" />
 </a>
