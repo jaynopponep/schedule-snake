@@ -1,7 +1,7 @@
 # Schedule Snake
 A web application built to ensure a smooth enrollment process into university courses. 
 Professors are able to create courses on Schedule Snake swiftly, and students are able to
-enroll into courses that those students create for the corresponding university. 
+enroll into courses that those professors create for the corresponding university. 
 Schedule Snake is powered by NextJS & MySQL database hosted on PhpMyAdmin</br>
 
 ### Demo
